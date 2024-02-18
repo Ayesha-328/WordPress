@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>book &#8211; Shopster</title>
+	<atom:link href="https://ayesha-328.github.io/WordPress/product-tag/book/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ayesha-328.github.io/WordPress</link>
+	<description>Best Ecommerce website</description>
+	<lastBuildDate>Wed, 14 Feb 2024 16:08:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://ayesha-328.github.io/WordPress/wp-content/uploads/2023/10/03192019-031.png</url>
+	<title>book &#8211; Shopster</title>
+	<link>https://ayesha-328.github.io/WordPress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Single Self Help Book</title>
+		<link>https://ayesha-328.github.io/WordPress/product/single-self-help-book/</link>
+					<comments>https://ayesha-328.github.io/WordPress/product/single-self-help-book/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2023 18:51:21 +0000</pubDate>
+				<guid isPermaLink="false">https://ayesha-328.github.io/WordPress/?post_type=product#038;p=86</guid>
+
+					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+ 	<li class="a-spacing-mini"><span class="a-list-item">50% Cotton, 50% Polyester</span></li>
+ 	<li class="a-spacing-mini"><span class="a-list-item">Imported</span></li>
+ 	<li class="a-spacing-mini"><span class="a-list-item">Zipper, Drawstring closure</span></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li class="a-spacing-mini"><span class="a-list-item">50% Cotton, 50% Polyester</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Imported</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Zipper, Drawstring closure</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Machine Wash</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">FLEECE TO FEEL GOOD ABOUT – EcoSmart mid-weight cotton/poly fleece with up to 5% of the poly fibers.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">CLASSIC ZIP-FRONT SILHOUETTE – Full-zip front with a drawstring hood and front pockets.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">MADE TO STAY SOFT – Pill-resistant durable fleece stays warm and cozy.</span></li>
+</ul>
+<div class="a-row a-expander-container a-expander-inline-container">
+<div class="a-expander-content a-expander-extend-content a-expander-content-expanded" aria-expanded="true">
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li class="a-spacing-mini"><span class="a-list-item">HOLDS ITS SHAPE &#8211; Thanks to ribbed cuffs and hem.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">MADE TO LAST – Double-needle stitching at the neck and armhole seams for quality and durability, plus a dyed-to-match drawstring at the hood.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">CONVENIENT TEARAWAY TAGS &#8211; Getting rid of itchy tags is super easy. Simply tear it off for comfort that lasts all day.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">QUALITY FABRIC – Hanes EcoSmart zip-up fleece hoodie is 50% cotton/50% polyester (Charcoal Heather is 65% cotton/35% polyester.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">COLD WATER WASH – Hanes recommends machine washing this men&#8217;s sweatshirt in cold water to help reduce energy consumption.</span></li>
+<li class="a-spacing-mini"></li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ayesha-328.github.io/WordPress/product/single-self-help-book/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
